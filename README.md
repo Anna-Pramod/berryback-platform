@@ -27,9 +27,6 @@ Most existing solutions intervene **after surplus already exists**, offering dis
 
 It aligns **real-time consumer demand signals** with **food business operations**, transforming waste reduction from a reactive process into a **planning and efficiency advantage**.
 
-> Redistribution is not the product.  
-> Intelligence is.
-
 ---
 
 ## How BerryBack Thinks 
@@ -72,17 +69,15 @@ BerryBack closes the loop between:
 
 ##  Core Platform Components
 
-### Surplus-Aware Marketplace (Phase 1)
+### Surplus-Aware Marketplace 
 A real-time interface where:
 - Sellers list surplus inventory
 - Buyers reserve discounted food
 - Data is captured at every interaction
 
-> This is the *data engine*, not the end goal.
-
 ---
 
-### Food Intelligence Engine (Core)
+### Food Intelligence Engine 
 BerryBack continuously learns from:
 - Time of day
 - Item-level sales
